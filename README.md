@@ -96,8 +96,6 @@ Other Tools:
 
 
 
-Setup Guide:
-
  Prerequisites:
 
 
