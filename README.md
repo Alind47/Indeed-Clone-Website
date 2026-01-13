@@ -1,4 +1,4 @@
-Indeed-Clone-Website
+Indeed-Inspired Job Aggregator
 
 A full-stack web application replicating core functionalities of Indeed.com, designed as a job portal with a modern, responsive user interface and robust backend. This project demonstrates proficiency in building scalable, production-ready applications using industry-standard tools and best practices.
 
